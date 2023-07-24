@@ -76,7 +76,7 @@ theme_mode: light # [light|dark]
 img_cdn: https://cdn.jsdelivr.net/gh/J-nowcow/J-nowcow.github.io@main
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile.png
+avatar: /assets/img/profile.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
