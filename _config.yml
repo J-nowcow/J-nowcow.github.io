@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: J-nowcow # change to your github username
+  username: J-nowcow # to your github username
 
 twitter:
   username: # change to your twitter username
@@ -195,3 +195,5 @@ jekyll-archives:
     category: /categories/:name/
 
 future: true
+
+google_analytics: G-21T82QG2H1
